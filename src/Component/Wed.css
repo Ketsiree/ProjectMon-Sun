@@ -1,0 +1,39 @@
+.myStyleW{
+    padding: 125px;
+    background-image: url("https://greathealth365.com/wp-content/uploads/2017/02/green-background-1.jpg"); 
+    display: flex; 
+    justify-content: center;  
+    align-items: center;
+    color:rgb(11, 121, 44);
+    flex-direction: column;
+    font-family: 'Itim', cursive;
+    border: 1px solid white;
+}
+
+.myVi3{
+    font-family: 'Itim', cursive;
+    color:black;
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    margin: 10;
+    padding: 10;
+  }
+  .myVi{
+    font-family: 'Itim', cursive;
+    color:black;
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    flex-direction: column;
+    margin: 10;
+  }
+
+  .li3{
+    display: flex;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color:white;
+    font-family: 'Itim', cursive;
+}
